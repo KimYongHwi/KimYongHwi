@@ -1,4 +1,7 @@
-### Hi there 👋
+### certificates
+- [TensorFlow Developer Certificate](https://www.credential.net/cbd653c6-9ca4-4ee2-bba0-d04d42c52d6d#gs.rv7x7j)
+- [텐서플로우로 시작하는 딥러닝 기초](https://www.edwith.org/certificate/A20201015-652769?langCode=ko)
+<!-- ### Hi there 👋 -->
 
 <!--
 **KimYongHwi/KimYongHwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
